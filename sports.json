@@ -16,6 +16,34 @@
       "api": "csp_SportsKafei",
       "searchable": 0,
       "quickSearch": 0
+    },
+    {
+      "key": "drpy_js_310zb",
+      "name": "体育 • 310直播",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js",
+      "changeable": 0,
+      "searchable": 0,
+      "quickSearch": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1
+      },
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/310%E7%9B%B4%E6%92%AD.js"
+    },
+    {
+      "key": "drpy_js_88kq",
+      "name": "体育 • 88看球",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js",
+      "changeable": 0,
+      "searchable": 0,
+      "quickSearch": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1
+      },
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/88%E7%9C%8B%E7%90%83.js"
     }
   ]
 }
