@@ -2,12 +2,40 @@
   "spider": "https://gh-proxy.org/https://github.com/niuber/niuber/raw/refs/heads/main/tvbox/TVBoxOSC/tvbox/spider.jar",
   "sites": [
     {
+      "key": "88看球",
+      "name": "⚽ 88 • 看球",
+      "type": 3,
+      "api": "csp_Sports88",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "style": {
+        "type": "list"
+      }
+    },
+    {
+      "key": "飞球体育",
+      "name": "⚽ 飞球 • 体育",
+      "type": 3,
+      "api": "csp_SportsFeiqiu",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "style": {
+        "type": "list"
+      }
+    },
+    {
       "key": "GuaziTY",
       "name": "瓜子 • 体育",
       "type": 3,
       "api": "csp_SportsGuazi",
       "searchable": 0,
-      "quickSearch": 0
+      "quickSearch": 0,
+      "changeable": 0,
+      "style": {
+        "type": "list"
+      }
     },
     {
       "key": "咖啡体育",
@@ -15,19 +43,11 @@
       "type": 3,
       "api": "csp_SportsKafei",
       "searchable": 0,
-      "quickSearch": 0
-    },
-    {
-      "key": "fty_88kq",
-      "name": "⚽ 88看球 • 赛事",
-      "type": 3,
-      "api": "csp_Kanqiu",
-      "searchable": 0,
+      "quickSearch": 0,
       "changeable": 0,
       "style": {
         "type": "list"
-      },
-      "jar": "http://饭太硬.top/tvbox/fty.jar"
+      }
     }
   ]
 }
